@@ -1,0 +1,8 @@
+
+;<Program title>
+LDA 2000
+MOV B,A
+LDA 2002
+SUB B
+STA 2004
+HLT
